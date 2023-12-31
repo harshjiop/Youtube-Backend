@@ -8,3 +8,7 @@ export const ACCESS_TOKEN_SECRET =
 export const ACCESS_TOKEN_EXPIRY = "1d";
 export const REFRESH_TOKEN_SECRET = "123";
 export const REFRESH_TOKEN_EXPIRY = "10d";
+
+export const CLOUDINARY_CLOUD_NAME = "ddib2csvf";
+export const CLOUDINARY_API_KEY = 994755516574545;
+export const CLOUDINARY_API_SECRET = "tdxceVOoaBiOAPoJpwb9cigtdDk";
